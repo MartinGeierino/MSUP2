@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T16:07:30.237Z" agent="5.0 (Macintosh)" version="20.8.1" etag="P0DtUB2vUBpkFW18CN0F" type="github"><diagram id="FsZyql9TYZmIhOPU9Vk6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-06T17:14:11.406Z" agent="5.0 (Macintosh)" version="20.8.1" etag="8A6iiIzkT1gzUCNXFEDb" type="github">
+  <diagram id="0Wsf2FnmDClPYG6RDJYK" name="Page-1">
+    <mxGraphModel dx="1659" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-7" value="&lt;div&gt;Aktivitäten:&lt;/div&gt;&lt;div&gt;- Produkte vertreiben/Marktplatz betreiben&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Produktdistribution&lt;/div&gt;&lt;div&gt;- Einkauf&lt;/div&gt;&lt;div&gt;- Einkaufsabwicklung&lt;/div&gt;&lt;div&gt;- Verkaufsabwicklung&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="240" width="800" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-5" value="Kunde" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="80ZwuhSsuTZyrwnIFKb9-10">
+          <mxGeometry x="10" width="190" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-23" value="Angebot ansehen" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="80ZwuhSsuTZyrwnIFKb9-5">
+          <mxGeometry x="35" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-24" value="Auftrag erteilen" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="80ZwuhSsuTZyrwnIFKb9-5">
+          <mxGeometry x="35" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-25" value="Zahlung leisten" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="80ZwuhSsuTZyrwnIFKb9-5">
+          <mxGeometry x="35" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-6" value="Bamazon" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="80ZwuhSsuTZyrwnIFKb9-10">
+          <mxGeometry x="200" width="200" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-20" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="80ZwuhSsuTZyrwnIFKb9-6">
+          <mxGeometry x="80" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-22" value="Online-Plattform bereitstellen " style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="80ZwuhSsuTZyrwnIFKb9-6">
+          <mxGeometry x="35" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-26" value="Auftrag prüfen" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="80ZwuhSsuTZyrwnIFKb9-6">
+          <mxGeometry x="35" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-27" value="Auftrag prüfen" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="80ZwuhSsuTZyrwnIFKb9-6">
+          <mxGeometry x="35" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-8" value="Lieferant" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="80ZwuhSsuTZyrwnIFKb9-10">
+          <mxGeometry x="400" width="200" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="80ZwuhSsuTZyrwnIFKb9-9" value="Anbieter" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="80ZwuhSsuTZyrwnIFKb9-10">
+          <mxGeometry x="600" width="200" height="750" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
